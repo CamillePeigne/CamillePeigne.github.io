@@ -1,1 +1,1 @@
-[La revue culturelle] (https://larevueculturelle.com)
+[El cultural] (https://elcultural.com)
