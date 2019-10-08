@@ -1,1 +1,1 @@
-[Universidad de Deusto] (https://www.deusto.es)
+[NY Times] (https://www.nytimes.com/)
