@@ -1,1 +1,1 @@
-[Github] (https://github.com/CamillePeigne)
+[Fubiz] (http://www.fubiz.net/)
