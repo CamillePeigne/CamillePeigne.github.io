@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Rennes, mi ciudad) (https://edito.regionsjob.com/xjob/wp-content/uploads/sites/3/2017/10/rennes.jpg)
