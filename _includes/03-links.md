@@ -1,1 +1,1 @@
-[GiTuhb] (https://github.com)
+[La revue culturelle] (https://larevueculturelle.com/)
