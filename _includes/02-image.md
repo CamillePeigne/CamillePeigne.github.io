@@ -1,1 +1,1 @@
-! [Ciudad de Rennes] (https://edito.regionsjob.com/xjob/wp-content/uploads/sites/3/2017/10/rennes.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
