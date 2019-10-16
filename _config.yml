@@ -10,4 +10,4 @@ author:
     - title: GitHub
       url: https://github.com/CamillePeigne
       icon: fab fa-github-square
-theme: jekyll/minima
+remote_theme: jekyll/minima
