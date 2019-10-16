@@ -1,2 +1,13 @@
-title: Welcome to my portfolio!
+title: Portafolio de Camille Peigné
+description: Mismo texto que en el archivo README
+author:
+  name: Camille Peigné
+  email: camille.peigne@opendeusto.es
+  links:
+    - title: Twitter
+      url: https://twitter.com/c_peigne
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/CamillePeigne
+      icon: fab fa-github-square
 theme: jekyll-theme-cayman
