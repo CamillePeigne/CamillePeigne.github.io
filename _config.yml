@@ -11,7 +11,7 @@ author:
       url: https://github.com/CamillePeigne
       icon: fab fa-github-square
       
-remote_theme: poole/hyde
+remote_theme: fongandrew/hydeout
 
 url: http://CamillePeigne.github.io
 baseurl: ""
