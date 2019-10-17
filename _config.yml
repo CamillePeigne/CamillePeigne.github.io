@@ -12,6 +12,7 @@ author:
       icon: fab fa-github-square
       
 remote_theme: fongandrew/hydeout
+paginate: 5
 
 url: http://CamillePeigne.github.io
 baseurl: ""
