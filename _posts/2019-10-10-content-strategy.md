@@ -1,8 +1,8 @@
 ---
 title: Content Strategy
 date: 2019-10-10
-draft : true
-tags : [content], [strategy]
+draft: true
+tags: [content], [strategy]
 ---
 
 <h1> Content Strategy </h1>
