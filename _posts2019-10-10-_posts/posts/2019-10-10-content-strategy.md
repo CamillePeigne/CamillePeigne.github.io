@@ -49,4 +49,3 @@ El qualitative audit es un examen mucho más exhaustivo del contenido, con infor
 etc.
 
 Estos documentos son los más importantes cuando usted es nuevo en la estrategia de contenido, ya que le permiten tener la mayor cantidad de información posible sobre el contenido en el que está trabajando.
-
