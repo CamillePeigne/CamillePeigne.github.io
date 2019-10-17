@@ -10,5 +10,8 @@ author:
     - title: GitHub
       url: https://github.com/CamillePeigne
       icon: fab fa-github-square
+      
 remote_theme: poole/hyde
 
+url: http://CamillePeigne.github.io
+baseurl: ""
