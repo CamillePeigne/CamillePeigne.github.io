@@ -1,7 +1,6 @@
 ---
 title: Content Strategy
 date: 2019-10-10
-tags: [content], [strategy]
 ---
 
 <h1> Content Strategy </h1>
