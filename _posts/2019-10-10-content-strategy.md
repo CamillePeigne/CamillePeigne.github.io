@@ -1,5 +1,5 @@
 ---
-title: Título del post
+title: Content Strategy
 date: 2019-10-10
 ---
 
