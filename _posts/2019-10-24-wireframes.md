@@ -1,5 +1,3 @@
-<h1>Los Wireframes</h1>
-
 **¿Qué es?**
 
 Los wireframes describen el contenido de una pagina web y sus prioridas relativas.
