@@ -1,3 +1,8 @@
+---
+title: Los Wireframes
+date: 2019-10-24
+---
+
 **¿Qué es?**
 
 Los wireframes describen el contenido de una pagina web y sus prioridas relativas.
@@ -109,12 +114,3 @@ Hay que pensar en las personas que necesitan los diagramas, y no en los usuarios
 - Recordar los principios de diseño
 - Listar el contenido de la página
 - Usar escenarios realistas
-
-
- 
-
-
-
-
-
-
