@@ -1,4 +1,7 @@
-<h1>Los Wireframes</h1>
+---
+title: Los Wireframes
+date: 2019-10-24
+---
 
 **¿Qué es?**
 
@@ -111,12 +114,3 @@ Hay que pensar en las personas que necesitan los diagramas, y no en los usuarios
 - Recordar los principios de diseño
 - Listar el contenido de la página
 - Usar escenarios realistas
-
-
- 
-
-
-
-
-
-
