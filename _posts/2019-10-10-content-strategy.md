@@ -3,8 +3,6 @@ title: Content Strategy
 date: 2019-10-10
 ---
 
-<h1> Content Strategy </h1>
-
 Este documento explica qué es la estrategia de contenido, por qué es importante en la implementación y monitoreo de un proyecto, cuándo se necesita, quién está a cargo de la estrategia de contenido, por cuánto tiempo es necesaria, y las herramientas necesarias para su implementación.
 
 <h3>Así que, en primer lugar, ¿qué es la estrategia de contenido?</h3>
