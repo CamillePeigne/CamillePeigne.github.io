@@ -1,10 +1,15 @@
-**Lean UX es tres cosas.**
+---
+title: Lean UX
+date: 2019-09-26
+---
+
+<h1>Lean UX es tres cosas.</h1>
 
 - un cambio de procesos para la disenadores
 - une nueva mentalidad que cambia la manera en la que nos enfrentamos a nuestro trabajo
 - une nueva manera de pensar en la gestion de software
 
-**Tiene tres pilares :**
+<h1>Tiene tres pilares :</h1>
 
 - El design thinking, que defiende una posicion concreta para todos los aspectos del negocio que deban abordarse con el y permite a los disenadores superar los limites habituales que se les imponen en los proyectos
 - Las metodologias de desarrollo agil de software, que aplican al diseno de productos cuatro principios basicos del desarrollo agil de software :
@@ -15,6 +20,6 @@
 - El metodo Lean Startup, que utiliza un ciclo de feedback denominado “crear-medir-aprender”
 
 
-**En resumen, el objetivo es diseñar de forma rápida e iterativa, situando al usuario en el centro del pensamiento.**
+<h1>En resumen, el objetivo es diseñar de forma rápida e iterativa, situando al usuario en el centro del pensamiento.</h1>
 - Lean UX proporciona una visión común del proyecto y fortalece la cohesión del equipo.
 - Lean UX reduce el riesgo al realizar las pruebas de forma temprana y rápida.
