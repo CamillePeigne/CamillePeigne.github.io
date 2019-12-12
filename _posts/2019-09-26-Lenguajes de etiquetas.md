@@ -1,3 +1,4 @@
+<h1>HTML</h1>
 
 Lo que entendí es que el html es un **lenguaje de etiquetas que permite almacenar información en forma de código**.
 La ventaja es que se trata de un lenguaje fácil de leer y escribir
@@ -15,3 +16,10 @@ Luego tenemos una presentación de los diferentes atributos :
 - Atributos para internacionalizacion
 - Atributos de eventos
 - Atributos de foco
+
+<h1>CSS</h1>
+
+CSS y HTML trabajan juntos para describir tanto la estructura como al aspecto de su documento
+
+CSS  es un lenguaje informático utilizado para describir la presentación y el estilo de un documento HTML y XML.
+
